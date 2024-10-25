@@ -4,7 +4,11 @@ public class Firstname {
 
 	public static void main(String[] args) {
 		// TODO Auto
-		System.out.println("HELLO AARTHI");
+		  int $number = 20;
+		  System.out.println("value of the number variable is : "+ $number); 
+		  String studentName="Aniket"; 
+		  System.out.println("value is : "+studentName); 
+		  
 
 	}
 
