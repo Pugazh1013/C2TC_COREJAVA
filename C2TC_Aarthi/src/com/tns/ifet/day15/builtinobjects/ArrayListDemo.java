@@ -2,9 +2,8 @@ package com.tns.ifet.day15.builtinobjects;
 
 import java.util.ArrayList;
 import java.util.Collections;
-import java.util.Comparator;
 import java.util.Iterator;
-import java.util.List;
+import java.util.List; 
 import java.util.ListIterator;
 
 public class ArrayListDemo {
