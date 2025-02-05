@@ -2,6 +2,7 @@ package com.tns.ifet.day15userdefinedobjects.comparableandcomparator;
 
 import java.util.Comparator;
 
+
 public class Person {
 	private String name;
 	private String city;

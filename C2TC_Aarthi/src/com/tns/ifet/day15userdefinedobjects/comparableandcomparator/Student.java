@@ -1,7 +1,6 @@
 package com.tns.ifet.day15userdefinedobjects.comparableandcomparator;
 
 public class Student implements Comparable<Student>  {
-	{
 		private int rollNo;
 		private String name;
 		private float per;
@@ -50,5 +49,3 @@ public class Student implements Comparable<Student>  {
 			}
 	}
 
-
-}
